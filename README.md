@@ -12,7 +12,7 @@
   * [Section 2 (Creation)](#Section-2)
   * [Section 3 (Installation)](#Section-3)
   * [Section 4 (Result)](#Section-4)
-* [**References** (Result)](#References)
+* [**References**](#References)
 
 
 
