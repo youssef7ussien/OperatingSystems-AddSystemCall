@@ -5,14 +5,18 @@
 
 ## Table of Content
 
-* [**Section 1** (Preparation)](#S1)
-* [**Section 2** (Creation)](#S2)
-* [**Section 3** (Installation)](#S3)
-* [**Section 4** (Result)](#S4)
+* [**Team Member Names**](#Team)
+* [**Virtual Machine Settings**](#Settings)
+* [**Steps of how adding the system call**](#Steps)
+  * [Section 1 (Preparation)](#Section-1)
+  * [Section 2 (Creation)](#Section-2)
+  * [Section 3 (Installation)](#Section-3)
+  * [Section 4 (Result)](#Section-4)
+* [**References** (Result)](#References)
 
 
 
-## Team Member Names
+## Team Member Names <a name="Team"></a>
 
 * Hossam Mahmoud Metwally.
 
@@ -23,7 +27,7 @@
   
 
 
-## Virtual Machine Settings
+## Virtual Machine Settings <a name="Settings"></a>
 
 |       |       |
 | :---- | :---: |
@@ -33,9 +37,9 @@
 
 
 
-## Steps of how adding the system call
+## Steps of how adding the system call <a name="Steps "></a>
 
-### **Section 1** (Preparation) <a name="S1"></a>
+### **Section 1** (Preparation) <a name="Section-1"></a>
 
 *In this section, we will download all necessary tools to add a basic system call to the Linux kernel and run it.*
 
@@ -73,9 +77,11 @@ $ tar -xvf ~/linux-5.8.1.tar.xz -C ~/
 
 
 
+------
 
 
-### **Section 2** (Creation) <a name="S2"></a>
+
+### **Section 2** (Creation) <a name="Section-2"></a>
 
 *In this section, we will write a basic system call in C and integrate it into the new kernel.*
 
@@ -183,9 +189,11 @@ Then, save it.
 
 
 
+------
 
 
-### **Section 3** (Installation) <a name="S3"></a>
+
+### **Section 3** (Installation) <a name="Section-3"></a>
 
 *In this section, we will install the new kernel.*
 
@@ -237,9 +245,11 @@ $ sudo update-grub
 
 
 
+------
 
 
-### **Section 4** (Result) <a name="S4"></a>
+
+### **Section 4** (Result) <a name="Section-4"></a>
 
 *In this section, we will write a C program to check whether system call works or not.*
 
@@ -332,7 +342,7 @@ At the bottom, we see.
 
 
 
-## References
+## References <a name="References"></a>
 
 * https://dev.to/omergulen/how-to-add-system-call-syscall-to-the-kernel-compile-and-test-it-3e6p
 * https://www.cyberciti.biz/tips/compiling-linux-kernel-26.html
