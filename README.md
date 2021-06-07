@@ -5,13 +5,13 @@
 
 ## Table of Content
 
-* [Team Member Names](#Team)
-* [Virtual Machine Settings](#Settings)
-* [Steps of how adding the system call](#Steps)
-  * [**Section 1** (Preparation)](#Section-1)
-  * [**Section 2** (Creation)](#Section-2)
-  * [**Section 3** (Installation)](#Section-3)
-  * [**Section 4** (Result)](#Section-4)
+* [**Team Member Names**](#Team)
+* [**Virtual Machine Settings**](#Settings)
+* [**Steps of how adding the system call**](#Steps)
+  * [Section 1 (Preparation)](#Section-1)
+  * [Section 2 (Creation)](#Section-2)
+  * [Section 3 (Installation)](#Section-3)
+  * [Section 4 (Result)](#Section-4)
 * [**References** (Result)](#References)
 
 
